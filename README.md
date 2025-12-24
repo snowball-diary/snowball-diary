@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi there, I'm snowball-diary
+Hohai University | Software Engineering Undergraduate | Focus on Personal Growth & Learning
 
-<!--
-**snowball-diary/snowball-diary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎓 Basic Info
+- Education: Hohai University (HHU) · Software Engineering · [2025]-[?]
 
-Here are some ideas to get you started:
+## 🔍 Research Focus
+Personal Growth & Learning Field
+- Efficient learning methods for CS & SE majors
+- Programming-assisted personal learning management
+- Other learning path optimization
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contact
+- Email: <a href="mailto:shufu123@foxmail.com">shufu123@foxmail.com</a>
+- GitHub: @[snowball-diary](https://github.com/snowball-diary)
+
+---
+💡 Open to SE learning & personal growth exchanges. Welcome to connect!
+Thanks for visiting ✨
