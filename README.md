@@ -13,6 +13,7 @@ Personal Growth & Learning Field
 ## 📫 Contact
 - Email: <a href="mailto:shufu123@foxmail.com">shufu123@foxmail.com</a>
 - GitHub: @[snowball-diary](https://github.com/snowball-diary)
+- Bilibili：[滚雪球日记](https://space.bilibili.com/3546374631065783)
 
 ---
 💡 Open to SE learning & personal growth exchanges. Welcome to connect!
